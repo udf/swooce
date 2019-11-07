@@ -2,7 +2,13 @@
 
 A program that runs an arbitrary linear filter on an image.
 
+# Dependencies
+- OpenCV
+- CMake
+
 # Usage
+Compile the program like any other CMake project. If you do not know how to,
+please leave right now.
 
 ```shell
 ./swooce [kernel] [input] [output]
